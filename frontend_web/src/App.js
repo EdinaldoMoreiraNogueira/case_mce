@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-     <h1>DEUS É SUPREMO</h1>
+     <h1>DEUS É SUPREMO e UNICO</h1>
     </>
   );
 }
